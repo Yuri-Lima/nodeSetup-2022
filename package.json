@@ -1,0 +1,19 @@
+{
+  "name": "node-setup",
+  "version": "1.0.0",
+  "description": "Setup-2022-Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuri-Lima/nodeSetup-2022.git"
+  },
+  "author": "Yuri Lima <y.m.lima19@gmail.com> (https://www.yurilima.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yuri-Lima/nodeSetup-2022/issues"
+  },
+  "homepage": "https://github.com/Yuri-Lima/nodeSetup-2022#readme"
+}
